@@ -1,0 +1,33 @@
+.item {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px 0px 15px 0px;
+    padding: 0 15px;
+    width: 300px;
+    background-color: rgba(108, 107, 114, 0.493);
+    border-radius: 5px;
+}
+
+.status {
+    display: block;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+}
+
+.onLine {
+ 
+    background-color: rgb(86, 192, 53);
+}
+
+.ofLine {
+   
+    background-color: rgb(255, 68, 68);
+}
+
+.name {
+    font-size: 16px;
+    font-weight: 700;
+}
