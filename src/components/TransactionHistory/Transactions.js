@@ -19,7 +19,7 @@ export default function Transactions ({items}){
       <td>{amount}</td>
       <td>{currency}</td>
     </tr>
-      ))}
+      ))}      
     
 </tbody>
 </table>
